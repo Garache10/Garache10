@@ -1,9 +1,6 @@
-### Hi there 👋
+## José Ángel Garache
 
-<!--
-**Garache10/Garache10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Engineer Hypernova Labs S.A <!--![image](https://user-images.githubusercontent.com/36489263/136683969-14b3f962-203c-40c9-b871-0aea28af95de.png) -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
